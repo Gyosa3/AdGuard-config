@@ -1,1 +1,2 @@
 @@||france24.com
+@@||sdk.privacy-center.org^$domain=france24.com 
